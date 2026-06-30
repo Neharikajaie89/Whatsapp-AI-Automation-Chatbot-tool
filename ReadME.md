@@ -196,7 +196,8 @@ PINECONE_API_KEY=
 
 ## 📸 Screenshots
 
-<img width="992" height="479" alt="image" src="https://github.com/user-attachments/assets/a222d436-9ec6-4e77-9f0e-20029ad62036" />
+<img width="1901" height="924" alt="image" src="https://github.com/user-attachments/assets/52a8337b-fe16-4ff9-ba07-d96ef82a6769" />
+
 
 ## 📈 Example Conversation
 
