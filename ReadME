@@ -1,15 +1,8 @@
-Here's a professional GitHub README you can use for an **n8n-powered WhatsApp AI Automation Chatbot** repository.
+🤖 WhatsApp AI Automation Chatbot (n8n)
 
----
+An intelligent WhatsApp AI chatbot built with n8n that automates conversations, answers customer queries, manages leads, integrates with external services, and executes business workflows—all with little or no code.
 
-# 🤖 WhatsApp AI Automation Chatbot (n8n)
-
-An intelligent **WhatsApp AI chatbot** built with **n8n** that automates conversations, answers customer queries, manages leads, integrates with external services, and executes business workflows—all with little or no code.
-
-Whether you're building customer support, sales automation, appointment booking, or a personal AI assistant, this workflow provides a flexible foundation for WhatsApp automation using AI agents and modern LLMs. n8n provides official templates for AI-powered WhatsApp bots with text, media, and AI agent workflows, making it a strong base for custom automations. ([n8n][1])
-
----
-
+Whether you're building customer support, sales automation, appointment booking, or a personal AI assistant, this workflow provides a flexible foundation for WhatsApp automation using AI agents and modern LLMs. n8n provides official templates for AI-powered WhatsApp bots with text, media, and AI agent workflows, making it a strong base for custom automations.
 ## ✨ Features
 
 * 💬 AI-powered WhatsApp conversations
